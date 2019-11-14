@@ -1,7 +1,7 @@
 Spittoon
 ========
 
-Spittoon is a comic strip generator. It is an implementation of the [Microsoft Comic Chat](http://en.wikipedia.org/wiki/Microsoft_Comic_Chat) algorithm described in the paper, [Comic Chat](http://kurlander.net/DJ/Pubs/SIGGRAPH96.pdf) by Kurlander, Skelly, and Salesin
+Spittoon is a comic strip generator. It is an implementation of the [Microsoft Comic Chat](http://en.wikipedia.org/wiki/Microsoft_Comic_Chat) algorithm described in the paper, [Comic Chat](http://kurlander.net/DJ/Pubs/SIGGRAPH96.pdf) by Kurlander, Skelly, and Salesin.
 
 <img src="http://i.imgur.com/ZxeUH.png" alt="example comic strip" />
 
